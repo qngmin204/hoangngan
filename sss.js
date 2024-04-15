@@ -19,7 +19,7 @@ yesBtn.addEventListener("click", () => {
 
   // Thực hiện chuyển hướng đến đường dẫn Facebook
   newBtn.addEventListener("click", () => {
-    window.location.href = "https://www.messenger.com/t/100046785052051/";
+    window.location.href = "https://www.facebook.com/messages/t/100039580702074/";
   });
 });
 
